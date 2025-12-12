@@ -1,0 +1,14 @@
+body{
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ p{
+  background: #1B1F3B;
+  width: 60px;
+  height: 30px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: tomato;
+}
