@@ -3,12 +3,22 @@ let paragraph1 = document.getElementById("getpara1");
 let paragraph2 = document.getElementById("getpara2");
 let count = 0; 
 let count1 = 0;
-let count3 = 0;
+let count2 = 0;
 
 function update_Group_1_Score_1() {
     
     count += 1;
     paragraph1.innerText = count;
+
+
+  //console.log("Group 1 Score 1 clicked");
+}
+
+
+function update_Group_1_Score_2() {
+    
+    count2 += 2;
+    paragraph1.innerText = count2;
 
 
   //console.log("Group 1 Score 1 clicked");
